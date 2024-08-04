@@ -41,10 +41,18 @@
 
 // Status of Enrollment
 #define Register 0
-#define Login    1
+// #define Login    1
 
 // Branch Availability
-#define branch_found   0
+
+
+
+
+// #define branch_found   0
+
+
+
+
 #define branch_not_found 1
 
 // Enrollment
